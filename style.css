@@ -91,6 +91,7 @@ nav {
   min-height: 10vh;
   padding: 2rem 0rem;
 }
+
 #logo {
   flex: 1 1 20rem;
 }
@@ -402,6 +403,8 @@ input:focus {
     padding: 1rem;
   }
 }
+
+
 
 @media screen and (min-width: 1700px) {
   html {
